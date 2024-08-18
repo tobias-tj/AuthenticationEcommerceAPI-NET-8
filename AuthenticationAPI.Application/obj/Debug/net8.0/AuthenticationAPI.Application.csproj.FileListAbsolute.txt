@@ -1,0 +1,15 @@
+C:\Users\tjara\source\repos\DemoEcommerce.AuthenticationAPISolution\AuthenticationAPI.Application\bin\Debug\net8.0\AuthenticationAPI.Application.deps.json
+C:\Users\tjara\source\repos\DemoEcommerce.AuthenticationAPISolution\AuthenticationAPI.Application\bin\Debug\net8.0\AuthenticationAPI.Application.dll
+C:\Users\tjara\source\repos\DemoEcommerce.AuthenticationAPISolution\AuthenticationAPI.Application\bin\Debug\net8.0\AuthenticationAPI.Application.pdb
+C:\Users\tjara\source\repos\DemoEcommerce.AuthenticationAPISolution\AuthenticationAPI.Application\obj\Debug\net8.0\AuthenticationAPI.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tjara\source\repos\DemoEcommerce.AuthenticationAPISolution\AuthenticationAPI.Application\obj\Debug\net8.0\AuthenticationAPI.Application.AssemblyInfoInputs.cache
+C:\Users\tjara\source\repos\DemoEcommerce.AuthenticationAPISolution\AuthenticationAPI.Application\obj\Debug\net8.0\AuthenticationAPI.Application.AssemblyInfo.cs
+C:\Users\tjara\source\repos\DemoEcommerce.AuthenticationAPISolution\AuthenticationAPI.Application\obj\Debug\net8.0\AuthenticationAPI.Application.csproj.CoreCompileInputs.cache
+C:\Users\tjara\source\repos\DemoEcommerce.AuthenticationAPISolution\AuthenticationAPI.Application\obj\Debug\net8.0\AuthenticationAPI.Application.dll
+C:\Users\tjara\source\repos\DemoEcommerce.AuthenticationAPISolution\AuthenticationAPI.Application\obj\Debug\net8.0\refint\AuthenticationAPI.Application.dll
+C:\Users\tjara\source\repos\DemoEcommerce.AuthenticationAPISolution\AuthenticationAPI.Application\obj\Debug\net8.0\AuthenticationAPI.Application.pdb
+C:\Users\tjara\source\repos\DemoEcommerce.AuthenticationAPISolution\AuthenticationAPI.Application\obj\Debug\net8.0\ref\AuthenticationAPI.Application.dll
+C:\Users\tjara\source\repos\DemoEcommerce.AuthenticationAPISolution\AuthenticationAPI.Application\bin\Debug\net8.0\ecommerceSharedLibrary.dll
+C:\Users\tjara\source\repos\DemoEcommerce.AuthenticationAPISolution\AuthenticationAPI.Application\bin\Debug\net8.0\ecommerceSharedLibrary.pdb
+C:\Users\tjara\source\repos\DemoEcommerce.AuthenticationAPISolution\AuthenticationAPI.Application\obj\Debug\net8.0\AuthenticationAPI.Application.csproj.AssemblyReference.cache
+C:\Users\tjara\source\repos\DemoEcommerce.AuthenticationAPISolution\AuthenticationAPI.Application\obj\Debug\net8.0\Authenti.BABD7737.Up2Date

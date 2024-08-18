@@ -1,0 +1,11 @@
+C:\Users\tjara\source\repos\DemoEcommerce.AuthenticationAPISolution\AuthenticationAPI.Domain\bin\Debug\net8.0\AuthenticationAPI.Domain.deps.json
+C:\Users\tjara\source\repos\DemoEcommerce.AuthenticationAPISolution\AuthenticationAPI.Domain\bin\Debug\net8.0\AuthenticationAPI.Domain.dll
+C:\Users\tjara\source\repos\DemoEcommerce.AuthenticationAPISolution\AuthenticationAPI.Domain\bin\Debug\net8.0\AuthenticationAPI.Domain.pdb
+C:\Users\tjara\source\repos\DemoEcommerce.AuthenticationAPISolution\AuthenticationAPI.Domain\obj\Debug\net8.0\AuthenticationAPI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tjara\source\repos\DemoEcommerce.AuthenticationAPISolution\AuthenticationAPI.Domain\obj\Debug\net8.0\AuthenticationAPI.Domain.AssemblyInfoInputs.cache
+C:\Users\tjara\source\repos\DemoEcommerce.AuthenticationAPISolution\AuthenticationAPI.Domain\obj\Debug\net8.0\AuthenticationAPI.Domain.AssemblyInfo.cs
+C:\Users\tjara\source\repos\DemoEcommerce.AuthenticationAPISolution\AuthenticationAPI.Domain\obj\Debug\net8.0\AuthenticationAPI.Domain.csproj.CoreCompileInputs.cache
+C:\Users\tjara\source\repos\DemoEcommerce.AuthenticationAPISolution\AuthenticationAPI.Domain\obj\Debug\net8.0\AuthenticationAPI.Domain.dll
+C:\Users\tjara\source\repos\DemoEcommerce.AuthenticationAPISolution\AuthenticationAPI.Domain\obj\Debug\net8.0\refint\AuthenticationAPI.Domain.dll
+C:\Users\tjara\source\repos\DemoEcommerce.AuthenticationAPISolution\AuthenticationAPI.Domain\obj\Debug\net8.0\AuthenticationAPI.Domain.pdb
+C:\Users\tjara\source\repos\DemoEcommerce.AuthenticationAPISolution\AuthenticationAPI.Domain\obj\Debug\net8.0\ref\AuthenticationAPI.Domain.dll

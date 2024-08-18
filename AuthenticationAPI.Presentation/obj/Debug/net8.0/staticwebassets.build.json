@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "X5geaf3elotgbv2RLp6avIR3hEs30u3aqvn3VqiMvoA=",
+  "Source": "AuthenticationAPI.Presentation",
+  "BasePath": "_content/AuthenticationAPI.Presentation",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
